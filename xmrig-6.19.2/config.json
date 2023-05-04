@@ -60,7 +60,7 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
             "url": "xmr-asia1.nanopool.org:14444",
             "user": "491G7wEvdkvLy4QNkBGuerVAjhRMcfEo3TTN7SgnJx68R7KnAvD2XxZUMcTvusMCB1RtoYkWsDsNPS9Aa171PcMTEJpSTR1.wolfminer1/hortilanoj@gmail.com",
