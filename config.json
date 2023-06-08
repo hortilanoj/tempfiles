@@ -1,9 +1,11 @@
 {
     "autosave": true,
-    "cpu": true,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true
+        },
     "opencl": false,
     "cuda": false,
-    "1gb-pages": true,
     "pools": [
         {
             "url": "pool.hashvault.pro:5555",
