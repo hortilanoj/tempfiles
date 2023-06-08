@@ -24,6 +24,6 @@
         }
     ],
     "tls": {
-        "enabled": false
+        "enabled": true
     }
 }
