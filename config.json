@@ -13,11 +13,7 @@
         "huge-pages-jit": true,
     },
     "cuda": {
-        "enabled": true,
-        "loader": null,
-        "nvml": true,
-        "cn/0": false,
-        "cn-lite/0": false
+        "enabled": false
     },
     "donate-level": 1,
     "pools": [
