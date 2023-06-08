@@ -13,7 +13,7 @@
         "huge-pages-jit": true,
     },
     "cuda": {
-        "enabled": false,
+        "enabled": true,
         "loader": null,
         "nvml": true,
         "cn/0": false,
